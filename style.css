@@ -7,9 +7,97 @@
 *.banner{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 254, 233, 0.5), rgba(247, 1, 255, 0.244)), url("background1.jpg");
+    background-image: linear-gradient(rgba(3, 125, 156, 0.489), rgba(255, 1, 1, 0.192)), url("background1.jpg");
     background-size: cover;
     background-position: center;
     
     
+}
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: -10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 120px;
+    cursor: pointer;
+    
+    
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+.navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 0%;
+    background: #00ffcc;
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    transition: 0.5s;
+}
+
+.navbar ul li:hover::after{
+    width: 100%;
+}
+.content{
+    margin-top: 10%;
+    max-width: 600px;
+    
+
+}
+.content h1{
+    font-size: 70px;
+    color: #fff;
+}
+.content p{
+    margin: 10px 0 30px;
+    color: #03f8e7;
+
+}
+.feature-img{
+    width: 300px;
+    height: 487px;
+    position: absolute;
+    bottom: 0px;
+    right: 20%;
+    
+}
+.phone-container{
+    position: absolute;
+    bottom: 0;
+    right: 21.5%;
+    width: 240px;
+    background-color: #06f9cc;
+    margin: 0 auto 1px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 10px 10px 30px 30px;
+    
+}
+.anim{
+    opacity: 0;
+    transform: translateY(30px);
+    animation: moveup 0.5s linear forwards;
+}
+
+@keyframes moveup{
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+
+    }
 }
