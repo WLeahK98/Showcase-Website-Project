@@ -101,3 +101,18 @@
 
     }
 }
+
+.titles{
+    text-align: center;
+    color: purple;
+    border-style: double;
+    text-shadow: 2px 2px 5px red;
+}
+
+.text1{
+    text-align: left;
+}
+
+.profile{
+    align-items: right;
+}
