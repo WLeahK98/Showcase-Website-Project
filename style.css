@@ -114,33 +114,27 @@
     text-shadow: 2px 2px 5px red;
 }
 
-.backstory-text{
-    flex: 1;
-
+.youtube_vid{
+    float: left;
+    border-radius: 10px;
+    border: 3px solid black;
+    margin: auto;
+    
 }
 
-.wrapper {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  gap: 1rem;
+.wrapper{
+    
+    background-color: plum;
+    display: flex;
+    align-items:center;
+    margin-left: 10px;
+    
 }
 
-@media (max-width: 768px) {
-  .wrapper {
-    flex-direction: column;
-  }
-}
+.backstory{
+    margin-left: 50px;
+    
+    
 
-.video-container {
-  flex: 0 0 auto;
-  max-width: 300px;
-  width: 100%;
 }
-
-.backstory {
-  flex: 1;
-  width: 100%;
-}
-
 
