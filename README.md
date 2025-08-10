@@ -9,6 +9,9 @@ https://wleahk98.github.io/Showcase-Website-Project/
     wrap text around vid to the left
 
 Completed 18:15
+
+Update (19:32):
+There was actually are much more easier and less time consuming way to align a video to the left hand side of some text. The struggle endured during these last 2 hours was completely unnessary it would seem.
     Add JS appear effect for text
 
 
