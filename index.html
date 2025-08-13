@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <title>My showcase website - Wehlia</title>
     <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
     <div class="banner">
@@ -69,14 +70,28 @@ should align to the right of webpage-->
 </section>
 
 <!---"The Journey so far" section, 
-should align to the left of webpage-->
-<section>
-    <div>
-            <h2 class ="titles">The journey so far...</h2>
-            <h3></h3>
-            <p></p>
+Title should align to the left of webpage-->
+<section id="journey">
+<h2 class ="titles">The journey so far...</h2>
+<!--Image gallery with horizontal scrolling -->
+    <div class="gallery-wrap">
+        <img src="arrow left.png" alt="left arrow button" id="leftBtn">
+        <div class="gallery">
+        <div>
+            <span><img src="HTML logo.png" alt="html logo image"></span>
+            <span><img src="CSS logo.png" alt="css logo image"></span>
+        </div>
+        <div>
+        <span><img src="javascript-logo.png" alt="javascript logo image"></span>
+        <span><img src="python-5-logo.png" alt="python logo image"></span>
+        </div>
     </div>
+        <img src="arrow right.png" alt="right arrow button" id="rightBtn">   
+    </div>
+    
 
+
+</div>
 </section>
 
 <!---"The Goal" section, 
@@ -105,5 +120,7 @@ should contain external links like LinkedIn profile-->
 <footer>
     <p>Copyright - Wehlia Kahin</p>
 </footer> 
+
+    <script type="text/javascript" src="script.js"></script>    
 </body>
 </html>
