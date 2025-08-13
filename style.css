@@ -7,7 +7,9 @@
 }
 body{
     background: white;
-}
+} 
+
+
 
 *.banner{
     width: 100%;
@@ -111,35 +113,38 @@ body{
     }
 }
 
+/* Styling for "the journey so far" images and videos */
 .titles{
     text-align: center;
     color: purple;
     border-style: double;
     text-shadow: 2px 2px 5px red;
-}
-
-.youtube_vid{
-    float: left;
-    border-radius: 10px;
-    border: 3px solid black;
-    margin: 0 auto;
-
     
 }
 
 .wrapper{
-    
-    background-color: plum;
     display: flex;
-    align-items:center;
-    margin-left: 10px;
-    
+    align-items: center;
+    color: rgb(255, 255, 255);
+    background-color: plum;
 }
 
-.backstory{
-    margin-left: 20px;
-    
+.text-box{
+    color: #0823ce;
+    text-align:left;
+    font-size: medium;
+    font-style: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+
+.about-image{
+    width: 30%;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+
+
+
 
 /* Styling for the image gallery */
 .gallery{
@@ -193,5 +198,9 @@ ol {
     margin: 20px 0; /* Set margin for spacing */
     padding-left: 20px; /* Indent the list */
     color: #0823ce; /* Text color */
+}
+
+html{
+    scroll-behavior: smooth;
 }
 
