@@ -21,8 +21,10 @@ There was actually are much more easier and less time consuming way to align a v
 
 Add JavaScript coding languages type of effect to "The Journey so far..." section.
     
-    
+**TO ADD:**    
     Add JS appear effect for text
-
-
     Same process but for "The Goal" section.
+
+Update (20:28):
+    Successfully mangaed to correctly link my first ever Javascript file to HTML and CSS files. 
+    Trying to create a vertically scrolling image gallery that can display coding languages that I've used.
