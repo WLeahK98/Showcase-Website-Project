@@ -1,4 +1,3 @@
-alert('test');
 
 let scrollContainer = document.querySelector(".gallery");
     let leftBtn = document.getElementById("leftBtn");
