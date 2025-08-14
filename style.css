@@ -91,13 +91,16 @@ body{
     position: absolute;
     bottom: 0;
     right: 21.5%;
-    width: 240px;
+    width: 260px;
     background-color: #06f9cc;
     margin: 0 auto 1px;
     margin-bottom: 10px;
     padding: 10px;
     border-radius: 10px 10px 30px 30px;
     
+}
+.short{
+    margin-right: 6px;
 }
 .anim{
     opacity: 0;
@@ -127,6 +130,7 @@ body{
     align-items: center;
     color: rgb(255, 255, 255);
     background-color: plum;
+    
 }
 
 .text-box{
@@ -141,9 +145,44 @@ body{
     width: 30%;
     margin-left: 10%;
     margin-top: 20px;
+    margin-bottom: 20px;
+}
+.youtube{
+    background-image: linear-gradient(rgba(172, 0, 92, 0.178), rgba(0, 0, 0, 0.192)), url("blue\ galaxy.jpg");    
+    box-shadow: 0 0 15px 15px rgba(0, 0, 0, 0.3);
+    height: 70vh;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+
+    display: flex;
+    column-gap: 10px;
+    
+
 }
 
+.youtube_vid{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 3px solid white;  
+    margin-left: -10px;
+}
 
+.row{
+    margin-left: 7%;
+    
+}
+.hackathon-title{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-image: url(purple\ galaxy.jpg);
+    box-shadow: 0 0 15px 15px rgba(0, 0, 0, 0.3);
+    text-shadow: 2px 2px 5px red;
+    
+}
+
+    
 
 
 /* Styling for the image gallery */
