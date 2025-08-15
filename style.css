@@ -272,7 +272,7 @@ h1{
     position: relative;
     margin-bottom: 80px;
 }
-h1::after{
+.the-goal h1::after{
     content: '';
     width: 900px;
     height: 3px;
