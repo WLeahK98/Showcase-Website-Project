@@ -274,11 +274,11 @@ h1{
 }
 h1::after{
     content: '';
-    width: 150px;
+    width: 900px;
     height: 3px;
     background: linear-gradient(to right, blue, purple);
     position: absolute;
-    bottom: -20px;
+    bottom: -10px;
     left: 50%;
     transform: translateX(-50%);
 }
