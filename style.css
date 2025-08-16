@@ -248,20 +248,14 @@ body{
 }
 /* Style The goal section */
 
-
-
+    /* Style for the slider */
 .wrapper3{
-    color: rgb(255, 255, 255);
-    background-color: rgba(128, 5, 108, 0.664);
-    padding: 0 0;
+    background-color: #ffb2d5;
 }
-
-/* Style for the slider */
-
 .the-goal{
     width: 100%;
     height: 100%;
-    background: rgba(128, 5, 108, 0.174);
+    background: rgb(178, 0, 133);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -271,12 +265,13 @@ h1{
     font-size: 30px;
     position: relative;
     margin-bottom: 80px;
+    color: white;
 }
 .the-goal h1::after{
     content: '';
     width: 900px;
     height: 3px;
-    background: linear-gradient(to right, blue, purple);
+    background: linear-gradient(to right, rgb(217, 255, 0), rgb(255, 0, 93));
     position: absolute;
     bottom: -10px;
     left: 50%;
@@ -288,9 +283,11 @@ h1{
     max-width: 700px;
     height: 300px;
     border-radius: 10px;
+    background-color: white;
     box-shadow: -10px 10px 40px rgba(0, 0, 0, 0.25);
     position: relative;
     margin-left: 250px;
+    overflow: hidden;
 
 
 }
@@ -303,13 +300,14 @@ h1{
     box-sizing: border-box;
     background: #fff;
     position: relative;
+    margin-left: 50px;
 
 }
 
 .profile2{
     display: flex;
     align-items: center;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .profile2 img{
@@ -319,10 +317,13 @@ h1{
 }
 
 .profile2 h3{
-    font-size: 26px;
+    font-size: 20px;
     color: rgb(0, 0, 255);
     margin-bottom: 8px;
+
 }
+
+
 
 #slide{
     width: 100%;
@@ -331,9 +332,28 @@ h1{
     position: absolute;
     top: 0;
     left: 0;
+    transition: 0.5s;
 }
 
 .sidebar{
     width: 60px;
     height: 100%;
+    padding: 15px 0;
+    box-sizing: border-box;
+    background: rgb(128, 255, 247);
+    position: absolute;
+    right: 0;
+    top: -0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.sidebar img{
+    width: 30px;
+    padding: 5px;
+    background: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-bottom: 30%s;
 }
