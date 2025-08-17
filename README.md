@@ -38,3 +38,6 @@ To add:
 back to top button
 Github and LinkedIn icon links
 
+
+**----WEBSITE COMPLETED!!!!----**
+*17/08/2025(Sun) - 21:13*
