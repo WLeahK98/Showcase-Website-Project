@@ -7,11 +7,11 @@ This project is my first ever webdesign project. Its a portfolio/showcase websit
 <img width="960" height="419" alt="{9924D344-B619-4705-AF3C-77BDC580804B}" src="https://github.com/user-attachments/assets/65423b31-af05-42b2-990c-f67af319db5d" />
 
 * **The Backstory**: most commonly known as the "About me" section but I thought it'd be fun to call it "The Backstory". This section goes into some facts about me, why I decided to study coding and what courses I've completed in the past.
-  <img width="960" height="424" alt="{00EF7933-74D0-43C2-A11D-9A77ECFDE08D}" src="https://github.com/user-attachments/assets/cbc6d78c-cf33-443c-997d-f2c6fc7035ee" />
+<img width="960" height="424" alt="{00EF7933-74D0-43C2-A11D-9A77ECFDE08D}" src="https://github.com/user-attachments/assets/cbc6d78c-cf33-443c-997d-f2c6fc7035ee" />
 
   
 * **The Journey so far...** : This section explains what I'm currently doing, both in my spare time and in realtion to my coding and software development studies.
-  <img width="960" height="340" alt="{A67B8AEA-37B5-471E-85C7-7FFA8134DBC1}" src="https://github.com/user-attachments/assets/344e66b8-676b-4fca-9063-d3e2f03e53dd" />
+<img width="960" height="340" alt="{A67B8AEA-37B5-471E-85C7-7FFA8134DBC1}" src="https://github.com/user-attachments/assets/344e66b8-676b-4fca-9063-d3e2f03e53dd" />
 
 * **The Goal:** This section is about reasons why I would like to move into a career realted to software development. A slider made with HTML, CSS and Javascript has been icluded to easiliy scroll through 6 reasons as to why I'd like to be a siftware developer.
 <img width="960" height="325" alt="{65D61800-4B7F-4905-A73E-786760DE02F8}" src="https://github.com/user-attachments/assets/049de3fa-e106-40c5-8fc1-3fe9021a5d5d" />
@@ -21,6 +21,9 @@ This project is my first ever webdesign project. Its a portfolio/showcase websit
 <img width="960" height="215" alt="{DE67A516-5FEA-4B74-AEAF-264FD315A675}" src="https://github.com/user-attachments/assets/ed3e6ea4-a115-43fb-828d-8d3a26b2d82e" />
 
 
+### Issues:
+* One noteable issue is in my current browser (Mozilla Firefox), my profile image appears smaller, however if the website is opened using a different browser like Microsoft Edge the image is bigger which is what I intended. I will check if this issue persists in Chrome, I'm guessing its related to different website width sizes.
+* The website isnt fully responsive... yet. I intend to fix that soon hopefully.
 
 ### Coding log (A log of the dates and times of when and what was coded)
 *10/08/2025(Sun)* 16:51
