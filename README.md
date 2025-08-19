@@ -36,7 +36,7 @@ This project is my first ever webdesign project. Its a portfolio/showcase websit
 | 13/08/2025(Wed) | Successfully mangaed to correctly link my first ever Javascript file to HTML and CSS files. |
 ----------------|------------------------------------------------------------------------------------------------
 | Update (20:28): |  Trying to create a vertically scrolling image gallery that can display coding languages that I've used. |
-----------------|--------------------------------------------------------------------------------------------------------------
+                  |
 | 
 
 *13/08/2025(Wed)* 
