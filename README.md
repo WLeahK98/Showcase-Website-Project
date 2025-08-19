@@ -13,7 +13,7 @@ This project is my first ever webdesign project. Its a portfolio/showcase websit
 * **The Footer:** The last section, which I like the most for some reason. Its the last part of the website and has clickable links to external social websites I have like LinkedIn, GitHub, YouTube and Flickr. I enjoyed making the clickable logo links and I think the reason I like this part the most is because the links not only look nice they actually work!
 
 
-# Coding log (A log of the dates and times of when and what was coded)
+### Coding log (A log of the dates and times of when and what was coded)
 *10/08/2025(Sun)* 16:51
     Move Backstory vid to right hand side
     wrap text around vid to the left
