@@ -21,43 +21,36 @@ This project is my first ever webdesign project. Its a portfolio/showcase websit
 <img width="960" height="215" alt="{DE67A516-5FEA-4B74-AEAF-264FD315A675}" src="https://github.com/user-attachments/assets/ed3e6ea4-a115-43fb-828d-8d3a26b2d82e" />
 
 
-### Issues:
+## Issues:
 * One noteable issue is in my current browser (Mozilla Firefox), my profile image appears smaller, however if the website is opened using a different browser like Microsoft Edge the image is bigger which is what I intended. I will check if this issue persists in Chrome, I'm guessing its related to different website width sizes.
 * The website isnt fully responsive... yet. I intend to fix that soon hopefully.
 
 ### Coding log (A log of the dates and times of when and what was coded)
 *10/08/2025(Sun)* 16:51
-    Move Backstory vid to right hand side
-    wrap text around vid to the left
-
-Completed 18:15
-
-Update (19:32):
+* Move Backstory vid to right hand side
+* wrap text around vid to the left
+  Completed 18:15
+* Update (19:32):
     There was actually are much more easier and less time consuming way to align a video to the left hand side of some text. The struggle endured during these last 2 hours was completely unnessary it would seem.
 
-*13/08/2025(Wed)*
-
-16:07 - 18:07
-
-Add JavaScript coding languages type of effect to "The Journey so far..." section.
+*13/08/2025(Wed)* 16:07 - 18:07
+* Add JavaScript coding languages type of effect to "The Journey so far..." section.
     
 **TO ADD:**    
-    Add JS appear effect for text
-    Same process but for "The Goal" section.
+* Add JS appear effect for text
+* Same process but for "The Goal" section.
 
-Update (20:28):
+* Update (20:28):
     Successfully mangaed to correctly link my first ever Javascript file to HTML and CSS files. 
     Trying to create a vertically scrolling image gallery that can display coding languages that I've used.
 
-*16/08/2025(Sat)*
-16:49 - 19:49
+*16/08/2025(Sat)* 16:49 - 19:49
+* 19:14 - completed slider in the Goal section
 
-19:14 - completed slider in the Goal section
-
-To add:
-back to top button
-Github and LinkedIn icon links
+**To add:**
+* Back to top button
+* Github and LinkedIn icon links
 
 
-**----WEBSITE COMPLETED!!!!----**
-*17/08/2025(Sun) - 21:13*
+### ----WEBSITE COMPLETED!!!!----
+## 17/08/2025(Sun) - 21:13
