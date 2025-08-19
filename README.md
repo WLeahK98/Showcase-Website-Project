@@ -3,11 +3,11 @@
 
 This project is my first ever webdesign project. Its a portfolio/showcase website and the intent here is to use and implement the basic coding knowlege I have gained and create an actual website. As I am a beginer when it comes to coding, the langauages used are predominantely HTML, CSS and Javascript. The website is divided into 4 main sections, which are the following:
 
-* The Homepage: The landing page, the welcome page, the first page you'll see when you click the website link (hopefully). Embeded is my YouTube video, within a smartphone container to make it look like you're watching a YouTube short. The video is a day in the life video of a beginner (myself) learning to code.
-* The Backstory: most commonly known as the "About me" section but I thought it'd be fun to call it "The Backstory". This section goes into some facts about me, why I decided to study coding and what courses I've completed in the past.
-* The Journey so far... : This section explains what I'm currently doing, both in my spare time and in realtion to my coding and software development studies.
-* The Goal: This section is about reasons why I would like to move into a career realted to software development.
-* The Footer: The last section, which I like the most for some reason. Its the last part of the website and has clickable links to external social websites I have like LinkedIn, GitHub, YouTube and Flickr. I enjoyed making the clickable logo links and I think the reason I like this part the most is because the links not only look nice they actually work!
+* **The Homepage**: The landing page, the welcome page, the first page you'll see when you click the website link (hopefully). Embeded is my YouTube video, within a smartphone container to make it look like you're watching a YouTube short. The video is a day in the life video of a beginner (myself) learning to code.
+* **The Backstory**: most commonly known as the "About me" section but I thought it'd be fun to call it "The Backstory". This section goes into some facts about me, why I decided to study coding and what courses I've completed in the past.
+* **The Journey so far...** : This section explains what I'm currently doing, both in my spare time and in realtion to my coding and software development studies.
+* **The Goal:** This section is about reasons why I would like to move into a career realted to software development.
+* **The Footer:** The last section, which I like the most for some reason. Its the last part of the website and has clickable links to external social websites I have like LinkedIn, GitHub, YouTube and Flickr. I enjoyed making the clickable logo links and I think the reason I like this part the most is because the links not only look nice they actually work!
 
 
 
