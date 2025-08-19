@@ -26,6 +26,14 @@ This project is my first ever webdesign project. Its a portfolio/showcase websit
 * The website isnt fully responsive... yet. I intend to fix that soon hopefully.
 
 ### Coding log (A log of the dates and times of when and what was coded)
+
+| Date and Time | Activity                                |   
+----------------|------------------------------------------
+|10/08/2025(Sun)| move Backstory vid to right hand side |
+                | wrap text around vid to the left
+                |
+                |
+
 *10/08/2025(Sun)* 16:51
 * Move Backstory vid to right hand side
 * wrap text around vid to the left
