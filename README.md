@@ -27,7 +27,8 @@ This project is my first ever webdesign project. Its a portfolio/showcase websit
 
 ### Coding log (A log of the dates and times of when and what was coded)
 
-| Date and Time | Activity                                |   
+| Date and Time | Activity                                |
+| ----------------|----------------------------------------- |
 |10/08/2025(Sun)| move Backstory vid to right hand side |
 |16:51          | wrap text around vid to the left      |
 | Update (19:32): | There was actually are much more easier and less time consuming way to align a video to the left hand side of some text. The struggle endured during these last 2 hours was completely unnessary it would seem. |
