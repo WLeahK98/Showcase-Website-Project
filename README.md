@@ -3,7 +3,7 @@
 
 This project is **my first *ever* webdesign project**. Its a portfolio/showcase website and the intent here is to use and implement the basic coding knowlege I have gained and create an actual website. As I am a beginer when it comes to coding, the langauages used are predominantely HTML, CSS and Javascript. The website is divided into 4 main sections, which are the following:
 
-* **The Homepage**: The landing page, the welcome page, the first page you'll see when you click the website link (hopefully). Embeded is my YouTube video, within a smartphone container to make it look like you're watching a YouTube short. The video is a day in the life video of a beginner (myself) learning to code.
+* <ins>**The Homepage**</ins>: The landing page, the welcome page, the first page you'll see when you click the website link (hopefully). Embeded is my YouTube video, within a smartphone container to make it look like you're watching a YouTube short. The video is a day in the life video of a beginner (myself) learning to code.
 <img width="960" height="419" alt="{9924D344-B619-4705-AF3C-77BDC580804B}" src="https://github.com/user-attachments/assets/65423b31-af05-42b2-990c-f67af319db5d" />
 
 * **The Backstory**: most commonly known as the "About me" section but I thought it'd be fun to call it "The Backstory". This section goes into some facts about me, why I decided to study coding and what courses I've completed in the past.
