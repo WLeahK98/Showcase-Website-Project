@@ -33,24 +33,13 @@ This project is my first ever webdesign project. Its a portfolio/showcase websit
 |16:51          | wrap text around vid to the left      |
 ----------------|------------------------------------------
 | Update (19:32): | There was actually are much more easier and less time consuming way to align a video to the left hand side of some text. The struggle endured during these last 2 hours was completely unnessary it would seem. |
+| 13/08/2025(Wed) | Successfully mangaed to correctly link my first ever Javascript file to HTML and CSS files. |
+----------------|------------------------------------------------------------------------------------------------
+| Update (20:28): |  Trying to create a vertically scrolling image gallery that can display coding languages that I've used. |
+----------------|--------------------------------------------------------------------------------------------------------------
+| 
 
-----------------|------------------------------------------
-|
-----------------|------------------------------------------
-
-*10/08/2025(Sun)* 16:51
-* Move Backstory vid to right hand side
-* wrap text around vid to the left
-  Completed 18:15
-* Update (19:32):
-    There was actually are much more easier and less time consuming way to align a video to the left hand side of some text. The struggle endured during these last 2 hours was completely unnessary it would seem.
-
-*13/08/2025(Wed)* 16:07 - 18:07
-* Add JavaScript coding languages type of effect to "The Journey so far..." section.
-    
-**TO ADD:**    
-* Add JS appear effect for text
-* Same process but for "The Goal" section.
+*13/08/2025(Wed)* 
 
 * Update (20:28):
     Successfully mangaed to correctly link my first ever Javascript file to HTML and CSS files. 
