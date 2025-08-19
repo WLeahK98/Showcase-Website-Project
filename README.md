@@ -1,4 +1,4 @@
-# My first Showcase Website Project
+# <ins>My first Showcase Website Project</ins>
 ## My first Showcase/portfolio wesbite about my coding journey, future goals and other interests.
 
 This project is my first ever webdesign project. Its a portfolio/showcase website and the intent here is to use and implement the basic coding knowlege I have gained and create an actual website. As I am a beginer when it comes to coding, the langauages used are predominantely HTML, CSS and Javascript. The website is divided into 4 main sections, which are the following:
