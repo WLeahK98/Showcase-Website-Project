@@ -28,13 +28,10 @@ This project is my first ever webdesign project. Its a portfolio/showcase websit
 ### Coding log (A log of the dates and times of when and what was coded)
 
 | Date and Time | Activity                                |   
-----------------|------------------------------------------
 |10/08/2025(Sun)| move Backstory vid to right hand side |
 |16:51          | wrap text around vid to the left      |
-----------------|------------------------------------------
 | Update (19:32): | There was actually are much more easier and less time consuming way to align a video to the left hand side of some text. The struggle endured during these last 2 hours was completely unnessary it would seem. |
 | 13/08/2025(Wed) | Successfully mangaed to correctly link my first ever Javascript file to HTML and CSS files. |
-----------------|------------------------------------------------------------------------------------------------
 | Update (20:28): |  Trying to create a vertically scrolling image gallery that can display coding languages that I've used. |
 | 16/08/2025(Sat)  | 19:14 - completed slider in the Goal section |
 | 17/08/2025(Sun)  | To add: Back to top button, Github and LinkedIn icon links|
