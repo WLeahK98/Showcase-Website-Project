@@ -36,7 +36,5 @@ This project is <ins>**my first *ever* webdesign project**</ins>. Its a portfoli
 | Update (20:28): |  Trying to create a vertically scrolling image gallery that can display coding languages that I've used. |
 | 16/08/2025(Sat)  | 19:14 - completed slider in the Goal section |
 | 17/08/2025(Sun)  | To add: Back to top button, Github and LinkedIn icon links|
+| 17/08/2025(Sun) 21:13 | <ins>**WEBSITE COMPLETED!!!!**</ins> |
 
-
-### ----WEBSITE COMPLETED!!!!----
-## 17/08/2025(Sun) - 21:13
