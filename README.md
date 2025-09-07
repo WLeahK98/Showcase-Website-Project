@@ -1,7 +1,18 @@
 # <ins>My first Showcase Website Project</ins>
 ## <ins>My first Showcase/portfolio website about my coding journey, future goals and other interests.</ins>
 
-https://https://www.youtube.com/watch?v=cxHjo1jL7yM
+
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=cxHjo1jL7yM">
+     <img 
+      src="https://github.com/user-attachments/assets/9d049283-fbc2-4836-aaab-5e8a87dcca55" />
+" 
+      alt="Everything Is AWESOME" 
+      style="width:100%;">
+      </a>
+    </div>
+
+
 
 This project is <ins>**my first *ever* webdesign project**</ins>. Its a portfolio/showcase website and the intent here is to use and implement the basic coding knowlege I have gained and create an actual website. As I am a beginer when it comes to coding, the langauages used are predominantely HTML, CSS and Javascript. The website is divided into 4 main sections, which are the following:
 
