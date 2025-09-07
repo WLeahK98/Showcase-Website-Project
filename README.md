@@ -4,11 +4,10 @@
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=cxHjo1jL7yM">
-     <img 
+      <img 
       src="https://github.com/user-attachments/assets/9d049283-fbc2-4836-aaab-5e8a87dcca55" />
-" 
-      alt="Everything Is AWESOME" 
-      style="width:100%;">
+      alt="Website YouTube intro vid" 
+      style="width:100%;
       </a>
     </div>
 
